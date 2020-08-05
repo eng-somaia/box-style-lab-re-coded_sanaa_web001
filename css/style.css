@@ -10,6 +10,7 @@ body, html {
     width:100%;
     background-repeat: no-repeat;
     background-size: cover;
+    position: fixed;
     box-sizing: border-box;
 }
 
@@ -36,11 +37,13 @@ h4 {
 }
 
 .indifferent {
+  border: 1px solid #dddd22;
   box-shadow:  -1px 1px #dddd22, -2px 2px #dddd22, -3px 3px #dddd22, -4px 4px #dddd22, -5px 5px #dddd22;
   background-color: #dddd22;
 }
 
 .dubious {
+    border: 1px solid #dd4444;
   box-shadow:  -1px 1px #dd4444, -2px 2px #dd4444, -3px 3px #dd4444, -4px 4px #dd4444, -5px 5px #dd4444;
   background-color: #dd4444;
 }
