@@ -29,7 +29,7 @@ h4 {
   margin: 20px 0 0 0;
 }
 .header-bg{
-  background: linear-gradient(to right, rgba(100,100,100,.9), rgba(200,200,200,0) 50.71%);
+  background: linear-gradient(to right, rgba(100,100,100,.9), rgba(200,200,200,0.5) 50.71%);
 }
 .amiable {
   border: 1px solid #22aa44;
